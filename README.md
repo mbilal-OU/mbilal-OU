@@ -34,7 +34,7 @@ I am a **Doctoral Researcher in Microbial Evolution and Comparative Genomics** a
 - **Time-resolved phylogenomics and molecular clocks** to reconstruct the microbial Tree of Life
 - **Genome evolution, adaptation, and biosignatures** relevant to life in extreme and extraterrestrial environments
 
-Alongside my PhD, I am pursuing training in **data science, machine learning, and multi-omics analytics**, integrating them into large-scale bioinformatics workflows. :contentReference[oaicite:1]{index=1}  
+In parallel with my PhD research, I am pursuing a Graduate Certificate in Data Science, with formal training in machine learning, statistical modeling, and advanced analytics for large-scale biological datasets. 
 
 ---
 
