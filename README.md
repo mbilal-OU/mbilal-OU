@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner_2.jpg"
+  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner.jpg"
        alt="Pangenomes Banner"
        width="100%"
        style="max-height: 260px; object-fit: cover; border-radius: 6px;" />
