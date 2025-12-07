@@ -1,6 +1,7 @@
 <p align="center">
-  <!-- Optional banner (add assets/banner.png later) -->
-  <img src="assets/banner.png" alt="Muhammad Bilal – Microbial Genomics & Evolution" width="80%" />
+  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner.jpg" 
+       alt="Pangenomes Evolution and Computation" 
+       width="100%" />
 </p>
 
 <h1 align="center">Muhammad Bilal</h1>
