@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner_2.jpg" 
-       alt="Pangenomes Evolution and Computation" 
-       width="100%" />
+  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner_2.jpg"
+       alt="Pangenomes Banner"
+       width="100%"
+       style="max-height: 260px; object-fit: cover; border-radius: 6px;" />
 </p>
+
 
 <h1 align="center">Muhammad Bilal</h1>
 
