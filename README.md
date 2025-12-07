@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner.jpg" 
+  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/pangenoem_banner_2.jpg" 
        alt="Pangenomes Evolution and Computation" 
        width="100%" />
 </p>
