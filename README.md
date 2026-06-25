@@ -3,7 +3,8 @@
 ![Banner](https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner3.jpg)
 
 # Muhammad Bilal
-### Doctoral Researcher · Microbial Evolution & Comparative Genomics · Oakland University
+### Decoding microbial evolution across deep time, and searching for life beyond Earth
+PhD Researcher | Microbial Pangenomics | Molecular Clocks | Astrobiology | Biotechnologist | NSF DAMOS
 
 [![Email](https://img.shields.io/badge/Email-mbilal%40oakland.edu-blue?logo=gmail&logoColor=white)](mailto:mbilal@oakland.edu)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)
@@ -131,7 +132,7 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Education
 
-🎓 **PhD, Biological and Biomedical Sciences** *(in progress)* - Oakland University, Michigan, USA  
+🎓 **PhD, Biological and Biomedical Sciences** *(in progress)* - Oakland University, Rochester, Michigan, USA  
 🎓 **MPhil Biotechnology** (CGPA 3.68 / 4.0) - University of Sargodha, Pakistan *(2021–2023)*  
 🎓 **BS Biotechnology** (CGPA 3.04 / 4.0) - University of Sargodha, Pakistan *(2017–2021)*
 
@@ -167,7 +168,7 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Let's Connect
 
-📍 Oakland University, Rochester, Michigan, USA  
+📍 Oakland University, Rochester, Michigan, USA 🇺🇸  
 ✉️ [mbilal@oakland.edu](mailto:mbilal@oakland.edu)  
 🔗 [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
 🔬 [Google Scholar](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)  
