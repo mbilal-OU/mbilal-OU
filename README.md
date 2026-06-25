@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Oakland_University_logo.png" alt="Oakland University" width="200"/>
+<img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/ou_logo.png" alt="Oakland University" width="220"/>
 
 ![Banner](https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner3.jpg)
 
