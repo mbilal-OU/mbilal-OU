@@ -1,195 +1,178 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner3.jpg"
-       alt="Pangenomes Banner"
-       width="100%"
-       style="max-height: 260px; object-fit: cover; border-radius: 6px;" />
-</p>
+ <div align="center">
 
+![Banner](https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner3.jpg)
 
-<h1 align="center">Muhammad Bilal</h1>
+# Muhammad Bilal
+### Doctoral Researcher · Microbial Evolution & Comparative Genomics · Oakland University
 
-<p align="center">
-  PhD Scholar in Biological and Biomedical Sciences • Microbial Genomics & Evolution • Data Science Trainee
-</p>
+[![Email](https://img.shields.io/badge/Email-mbilal%40oakland.edu-blue?logo=gmail&logoColor=white)](mailto:mbilal@oakland.edu)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsmbilal88-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmbilal88)
 
-<p align="center">
-  <a href="mailto:mbilal@oakland.edu">
-    <img src="https://img.shields.io/badge/Email-mbilal%40oakland.edu-blue?logo=gmail" alt="Email" />
-  </a>
-  <a href="https://scholar.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://orcid.org" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0000--000X--XXXX--XXXX-A6CE39?logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-</p>
+</div>
 
 ---
 
-## About
+## About Me
 
-I am a **Doctoral Researcher in Microbial Evolution and Comparative Genomics** at **Oakland University, Michigan, USA**, working in the **Battistuzzi Lab**. My research focuses on:
+I am a **PhD Scholar in Biological and Biomedical Sciences** at **Oakland University, Michigan**, working under [Dr. Fabia Ursula Battistuzzi](https://www.oakland.edu/biology/directory/battistuzzi/) in the Battistuzzi Lab.
 
-- **Pangenome reconstruction and comparative genomics** of bacteria
-- **Time-resolved phylogenomics and molecular clocks** to reconstruct the microbial Tree of Life
-- **Genome evolution, adaptation, and biosignatures** relevant to life in extreme and extraterrestrial environments
+My research investigates **microbial genome evolution across deep time** — combining comparative genomics, pangenome reconstruction, and molecular-clock phylogenomics to reveal how genomic innovation shaped prokaryotic diversification. A parallel thread of my work explores **biosignatures relevant to astrobiology and extreme environments**.
 
-In parallel with my PhD research, I am pursuing a Graduate Certificate in Data Science, with formal training in machine learning, statistical modeling, and advanced analytics for large-scale biological datasets. 
+Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, with training in machine learning, statistical modeling, and large-scale omics analytics.
 
 ---
 
 ## Research Focus
 
-- Microbial **pangenomes & genome diversity** across populations  
-- **Comparative genomics** for functional adaptation and host–microbe interactions  
-- **Time-calibrated phylogenies** and divergence-time estimation  
-- **Horizontal gene transfer** and evolutionary innovation  
-- **Astrobiology & extreme environments** – genomic signatures of resilience and survival  
+| Area | Details |
+|---|---|
+| **Microbial Pangenomics** | Pangenome reconstruction, openness estimation, core/accessory genome dynamics |
+| **Comparative & Evolutionary Genomics** | Functional adaptation, horizontal gene transfer, host–microbe interactions |
+| **Phylogenomics & Molecular Clocks** | Time-calibrated trees, divergence-time estimation, Tree of Life reconstruction |
+| **Astrobiology & Space Biology** | Genomic resilience, biosignatures, microbial survival in extreme environments |
+| **ML for Genomics** | Trait prediction, AI-driven biosignature detection, genome-scale modeling |
 
 ---
 
-## Domains & Competencies
+## Experience
 
-### Core Research Domains
+### PhD Scholar — Battistuzzi Lab, Oakland University *(2024 – Present)*
+- Investigating microbial pangenomes, phylogenetics, and evolutionary genomics to elucidate patterns of genome diversity, adaptation, and lineage evolution
+- Designing and implementing computational workflows for large-scale comparative and pangenome analyses on HPC clusters
+- Characterizing core and accessory genome evolution across microbial populations using integrative bioinformatics and phylogenomic approaches
 
-- Microbial Pangenomics & Comparative Genomics  
-- Phylogenetics, Molecular Clocks & Tree of Life Reconstruction  
-- Microbiome Functional Genomics & Host–Microbe Interactions  
-- Space Biology & Genomic Adaptations in Extreme Conditions  
+### Teaching Assistant — Oakland University *(2024 – Present)*
+**BIO 3401 Genetics Laboratory** (Dr. Doug Wendell) & **BIO 1201 Biology Laboratory**
+- Supervising experiments in DNA/RNA extraction, PCR, gel electrophoresis, and genetic analysis
+- Guiding students in hypothesis development, bioinformatics tools (BLAST, genome browsers), and data interpretation
+- Evaluating lab reports with focus on methodological accuracy, experimental design, and scientific writing
 
-### Tools & Frameworks
+### Program Coordinator — NSF NRT DAMOS, Oakland University *(2025)*
+[Data Analytics in Multi-Omics Science](https://www.oakland.edu/research/damos/)
+- Coordinated NSF-funded graduate training integrating multi-omics, data analytics, and entrepreneurship
+- Organized workshops on R, Python, and multi-omics data analysis
+- Facilitated cross-departmental collaboration to promote data-driven research
 
-<p>
-  <!-- Programming & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-HPC-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-</p>
-
-<p>
-  <!-- Bioinformatics -->
-  <img src="https://img.shields.io/badge/Prokka-Annotation-0B7A75" />
-  <img src="https://img.shields.io/badge/Roary-Pan--genome-2E8B57" />
-  <img src="https://img.shields.io/badge/Panaroo-Pan--genome-228B22" />
-  <img src="https://img.shields.io/badge/CoreCruncher-Pan--core-006400" />
-  <img src="https://img.shields.io/badge/PPanGGOLiN-Pangenomics-20B2AA" />
-  <img src="https://img.shields.io/badge/OrthoFinder-Orthology-8A2BE2" />
-</p>
-
-<p>
-  <!-- Phylogenomics -->
-  <img src="https://img.shields.io/badge/IQ--TREE-Phylogenetics-000080" />
-  <img src="https://img.shields.io/badge/RAxML--NG-Phylogenetics-191970" />
-  <img src="https://img.shields.io/badge/MAFFT-Alignment-1E90FF" />
-  <img src="https://img.shields.io/badge/MUSCLE5-Alignment-4169E1" />
-  <img src="https://img.shields.io/badge/ASTRAL-Species_Trees-483D8B" />
-</p>
-
-<p>
-  <!-- Molecular Clocks -->
-  <img src="https://img.shields.io/badge/BEAST2-MCMC_Clocks-8B0000" />
-  <img src="https://img.shields.io/badge/MCMCTree-Molecular_Clock-A52A2A" />
-  <img src="https://img.shields.io/badge/TreeTime-Phylo_Dating-B22222" />
-  <img src="https://img.shields.io/badge/RelTime-Divergence_Times-DC143C" />
-</p>
-
-<p>
-  <!-- Functional Annotation & Omics -->
-  <img src="https://img.shields.io/badge/EggNOG--mapper-Annotation-FF8C00" />
-  <img src="https://img.shields.io/badge/KEGG-Pathways-FF7F50" />
-  <img src="https://img.shields.io/badge/COG-Functional_Categories-FF6347" />
-  <img src="https://img.shields.io/badge/InterProScan-Domain_Analysis-FF4500" />
-</p>
-
-<p>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/Pandas-Data_Wrangling-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-ML-FFBF00?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-EC4D37" />
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C" />
-</p>
+### MPhil Research — University of Sargodha, Pakistan *(2021 – 2023)*
+- Conducted comparative genomics and pangenome analysis of *Bacteroides thetaiotaomicron* and *Yersinia enterocolitica*
+- Explored functional diversity, gene regulation, and metabolic capabilities for probiotic applications
+- Investigated host–microbe interactions using computational and bioinformatics approaches
 
 ---
 
-## Current Positions
+## Publications
 
-- **PhD Scholar in Biological and Biomedical Sciences**, Oakland University  
-  - Research Assistant – Battistuzzi Lab  
-  - Focus: microbial pangenomes, phylogenetic reconstruction, evolutionary genomics, deep-time diversification  
+- **Bilal, M., & Battistuzzi, F. U. (2026).** Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond. *Encyclopedia of Evolutionary Biology* (2nd ed., Vol. 2, pp. 294–306). Elsevier.  
+  [https://doi.org/10.1016/B978-0-443-15750-9.00139-7](https://doi.org/10.1016/B978-0-443-15750-9.00139-7)
 
-- **Teaching Assistant**, Genetics Laboratory (BIO 3401), Oakland University  
-  - Supervising experiments in DNA/RNA extraction, PCR, gel electrophoresis, and genetic analysis  
-  - Training students in hypothesis-driven experimentation and basic bioinformatics tools  
+- **Kanwal, M., Basheer, A., Bilal, M., et al. (2024).** In silico vaccine design for *Yersinia enterocolitica*: A comprehensive approach to enhanced immunogenicity, efficacy, and protection. *International Immunopharmacology*, 143, 113241.  
+  [https://doi.org/10.1016/j.intimp.2024.113241](https://doi.org/10.1016/j.intimp.2024.113241)
 
-- **Program Coordinator**, NSF NRT “Data Analytics in Multi-Omics Science (DAMOS)”  
-  - Coordinating graduate training that integrates omics, data analytics, and entrepreneurship  
+---
+
+## Conference Presentations
+
+| Year | Type | Title | Venue |
+|---|---|---|---|
+| 2026 | Oral | *Prokaryotes Take Longer to Speciate than Eukaryotes* (Abramowitz, K., Bilal, M., Battistuzzi, F.U., & Hedges, S.B.) | AbSciCon 2026 |
+| 2026 | Poster | [*Reconstructing the Microbial Tree of Life Using Population-Scale Pangenome Phylogenomics*](https://essopenarchive.org/doi/abs/10.22541/essoar.15003585) | AbSciCon 2026 |
+| 2026 | Oral | *Reconstructing the Microbial Tree of Life Using Population-Scale Pangenome Phylogenomics* | Graduate Research Conference, Oakland University |
+| 2025 | Poster | *Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond* | Graduate Research Conference, Oakland University |
+
+---
+
+## Awards & Honors
+
+🏆 **Provost Graduate Student Research Award** — Oakland University, Winter 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;$1,500 research grant · *"Assessing the Impact of Population-Scale Pangenome Choices on Microbial Phylogenies"*
+
+🏆 **Sigma Xi Travel Award** — 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;Awarded to support presentation at AbSciCon 2026
+
+---
+
+## Tools & Expertise
+
+**Pangenomics & Comparative Genomics**  
+`Roary` `Panaroo` `CoreCruncher` `PPanGGOLiN` `OrthoFinder` `PanX` `Anvi'o`
+
+**Phylogenetic Inference & Modeling**  
+`IQ-TREE` `RAxML-NG` `FastTree` `MAFFT` `MUSCLE5` `ASTRAL` `ModelFinder` `MEGA`
+
+**Molecular Clocks & Divergence Estimation**  
+`BEAST2` `MCMCTree` `TreeTime` `RelTime` `r8s`
+
+**Functional Annotation & Pathway Analysis**  
+`Prokka` `EggNOG-mapper` `KEGG` `COG` `InterProScan` `Blast2GO`
+
+**Programming & HPC**  
+`Python` `R` `Bash` `Linux/HPC` `Snakemake` `Slurm` `scikit-learn` `XGBoost` `AutoDock` `MOE`
+
+**Visualization & Reporting**  
+`ggtree` `iTOL` `FigTree` `Seaborn` `Matplotlib` `ggplot2` `BioRender` `Adobe Illustrator`
+
+**Molecular Biology & Laboratory**  
+`PCR` `qPCR` `DNA/RNA Extraction` `Recombinant Cloning` `Gel Electrophoresis` `ELISA` `Protein–Protein Interaction Assays`
+
+---
+
+## Highlighted Repositories
+
+| Repository | Description |
+|---|---|
+| [`PanGenome-Openness-Estimator`](https://github.com/mbilal-OU/PanGenome-Openness-Estimator) | Estimate pangenome openness via Heaps' law, genome accumulation curves, and permutation analysis |
+| [`pangenome-analysis-bt`](https://github.com/mbilal-OU/pangenome-analysis-bt) | Pangenome analysis of *Bacteroides thetaiotaomicron* (Roary, Panaroo, Prokka, Python) |
+| [`phylogenomics-tree-of-life`](https://github.com/mbilal-OU/phylogenomics-tree-of-life) | Time-calibrated phylogenomics using MAFFT, IQ-TREE, and RelTime |
+| [`ml-genomics`](https://github.com/mbilal-OU/ml-genomics) | Machine learning pipelines for trait prediction from genome data |
+| [`hpc-workflows`](https://github.com/mbilal-OU/hpc-workflows) | Slurm job scripts and modular pipelines for large-scale genomics on HPC |
+| [`bioinformatics-data-science`](https://github.com/mbilal-OU/bioinformatics-data-science) | Notebooks for omics data analysis and visualization |
+| [`rosalind-bioinformatics`](https://github.com/mbilal-OU/rosalind-bioinformatics) | Algorithmic problem-solving in bioinformatics (Rosalind.info) |
 
 ---
 
 ## Education
 
-- **PhD (Biological and Biomedical Sciences)** – in progress  
-  Oakland University, Michigan, USA  
-
-- **MPhil Biotechnology** (CGPA 3.68/4.0)  
-  University of Sargodha, Pakistan  
-
-- **BS Biotechnology** (CGPA 3.04/4.0)  
-  University of Sargodha, Pakistan  
+🎓 **PhD, Biological and Biomedical Sciences** *(in progress)* — Oakland University, Michigan, USA  
+🎓 **MPhil Biotechnology** (CGPA 3.68 / 4.0) — University of Sargodha, Pakistan *(2021–2023)*  
+🎓 **BS Biotechnology** (CGPA 3.04 / 4.0) — University of Sargodha, Pakistan *(2017–2021)*
 
 ---
 
-## Selected Publications
+## Certifications & Training
 
-- **Bilal, M., & Battistuzzi, F. U. (2026).**  
-  *Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond.*  
-  In Encyclopedia of Evolutionary Biology (2nd ed., Vol. 2, pp. 294–306). Elsevier.  
+**Genomics & Bioinformatics**
+- Introduction to Genomic Technologies — *Johns Hopkins University*
+- Computational Genomics & Bioinformatics — *ICCBS, University of Karachi*
+- Bacterial Bioinformatics — *University of Virginia*
+- Genomics: Decoding the Universal Language of Life — *University of Illinois*
 
-- **Kanwal, M., Basheer, A., Bilal, M., et al. (2024).**  
-  *In silico vaccine design for Yersinia enterocolitica: A comprehensive approach to enhanced immunogenicity, efficacy, and protection.*  
-  International Immunopharmacology, 143, 113241.  
+**Programming & Data Analysis**
+- Deep Learning, Python & Machine Learning — *Codanics*
+- Command Line in Linux & Bash Shell Scripting — *Coursera*
+- Introduction to R — *Great Learning Academy*
 
-More details and full list available on my Google Scholar profile.
-
----
-
-## Teaching, Coordination & Service
-
-- Teaching Assistant – **BIO 1201 Biology Laboratory** and **BIO 3401 Genetics Laboratory**  
-- Program Coordinator – **Data Analytics in Multi-Omics Science (DAMOS)**  
-- Leadership roles in graduate student organizations:
-  - General Secretary, Association of Graduate and Professional Students (AGPS)  
-  - Member, Biology Graduate Student Organization (BGSO)  
-  - Member, Sigma Xi: The Scientific Research Honor Society  
+**Other**
+- Higher Aptitude Test (HAT-IV-PhD) — *HEC, passed with distinction*
+- Programme Guidance for Adolescents — *UNICEF*
+- Industrial Biotechnology — *University of Manchester*
 
 ---
 
-## Highlighted GitHub Projects
+## Service & Memberships
 
-> These repositories reflect my work in pangenomics, phylogenomics, ML for genomics, and HPC workflows.
-
-- `pangenome-analysis-bt` – Pangenome analysis of *Bacteroides thetaiotaomicron* (Roary, Panaroo, Prokka, Python)  
-- `phylogenomics-tree-of-life` – Phylogenomics & time-calibrated trees (MAFFT, IQ-TREE, RelTime)  
-- `bioinformatics-data-science` – Notebooks for omics data analysis and visualization  
-- `ml-genomics` – Machine learning pipelines for trait prediction from genomes  
-- `hpc-workflows` – Slurm job scripts and modular pipelines for large-scale genomics  
-- `rosalind-bioinformatics` – Training ground for algorithmic thinking in bioinformatics  
+- **Vice President** — Association of Graduate and Professional Students (AGPS), Oakland University
+- **Member** — [Sigma Xi: The Scientific Research Honor Society](https://www.sigmaxi.org)
+- **Member** — Biology Graduate Student Organization (BGSO), Oakland University
 
 ---
 
-## Contact
+## Let's Connect
 
-- 📍 Oakland University, Rochester, Michigan, USA  
-- ✉️ Email: [mbilal@oakland.edu](mailto:mbilal@oakland.edu)  
-- 🌐 GitHub: [github.com/mbilal-OU](https://github.com/mbilal-OU)  
-- 🔗 LinkedIn:  www.linkedin.com/in/itsmbilal88
-  
+📍 Oakland University, Rochester, Michigan, USA  
+✉️ [mbilal@oakland.edu](mailto:mbilal@oakland.edu)  
+🔗 [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
+🔬 [Google Scholar](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)  
+💻 [github.com/mbilal-OU](https://github.com/mbilal-OU)
 
-If you are interested in collaboration on **pangenomes, microbial evolution, molecular clocks, or ML for genomics**, feel free to reach out.
+> *Open to collaborations in pangenomics, microbial evolution, molecular clocks, astrobiology, and ML for genomics.*
