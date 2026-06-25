@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 ![Banner](https://raw.githubusercontent.com/mbilal-OU/mbilal-OU/main/doc/banner3.jpg)
 
@@ -17,7 +17,7 @@
 
 I am a **PhD Scholar in Biological and Biomedical Sciences** at **Oakland University, Michigan**, working under [Dr. Fabia Ursula Battistuzzi](https://www.oakland.edu/biology/directory/battistuzzi/) in the Battistuzzi Lab.
 
-My research investigates **microbial genome evolution across deep time** — combining comparative genomics, pangenome reconstruction, and molecular-clock phylogenomics to reveal how genomic innovation shaped prokaryotic diversification. A parallel thread of my work explores **biosignatures relevant to astrobiology and extreme environments**.
+My research investigates **microbial genome evolution across deep time** - combining comparative genomics, pangenome reconstruction, and molecular-clock phylogenomics to reveal how genomic innovation shaped prokaryotic diversification. A parallel thread of my work explores **biosignatures relevant to astrobiology and extreme environments**.
 
 Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, with training in machine learning, statistical modeling, and large-scale omics analytics.
 
@@ -37,24 +37,24 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Experience
 
-### PhD Scholar — Battistuzzi Lab, Oakland University *(2024 – Present)*
+### PhD Scholar - Battistuzzi Lab, Oakland University *(2024 – Present)*
 - Investigating microbial pangenomes, phylogenetics, and evolutionary genomics to elucidate patterns of genome diversity, adaptation, and lineage evolution
 - Designing and implementing computational workflows for large-scale comparative and pangenome analyses on HPC clusters
 - Characterizing core and accessory genome evolution across microbial populations using integrative bioinformatics and phylogenomic approaches
 
-### Teaching Assistant — Oakland University *(2024 – Present)*
+### Teaching Assistant - Oakland University *(2024 – Present)*
 **BIO 3401 Genetics Laboratory** (Dr. Doug Wendell) & **BIO 1201 Biology Laboratory**
 - Supervising experiments in DNA/RNA extraction, PCR, gel electrophoresis, and genetic analysis
 - Guiding students in hypothesis development, bioinformatics tools (BLAST, genome browsers), and data interpretation
 - Evaluating lab reports with focus on methodological accuracy, experimental design, and scientific writing
 
-### Program Coordinator — NSF NRT DAMOS, Oakland University *(2025)*
+### Program Coordinator - NSF NRT DAMOS, Oakland University *(2025)*
 [Data Analytics in Multi-Omics Science](https://www.oakland.edu/research/damos/)
 - Coordinated NSF-funded graduate training integrating multi-omics, data analytics, and entrepreneurship
 - Organized workshops on R, Python, and multi-omics data analysis
 - Facilitated cross-departmental collaboration to promote data-driven research
 
-### MPhil Research — University of Sargodha, Pakistan *(2021 – 2023)*
+### MPhil Research - University of Sargodha, Pakistan *(2021 – 2023)*
 - Conducted comparative genomics and pangenome analysis of *Bacteroides thetaiotaomicron* and *Yersinia enterocolitica*
 - Explored functional diversity, gene regulation, and metabolic capabilities for probiotic applications
 - Investigated host–microbe interactions using computational and bioinformatics approaches
@@ -63,11 +63,9 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Publications
 
-- **Bilal, M., & Battistuzzi, F. U. (2026).** Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond. *Encyclopedia of Evolutionary Biology* (2nd ed., Vol. 2, pp. 294–306). Elsevier.  
-  [https://doi.org/10.1016/B978-0-443-15750-9.00139-7](https://doi.org/10.1016/B978-0-443-15750-9.00139-7)
+- **Bilal, M., & Battistuzzi, F. U. (2026).** [Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond.](https://doi.org/10.1016/B978-0-443-15750-9.00139-7) *Encyclopedia of Evolutionary Biology* (2nd ed., Vol. 2, pp. 294-306). Elsevier.
 
-- **Kanwal, M., Basheer, A., Bilal, M., et al. (2024).** In silico vaccine design for *Yersinia enterocolitica*: A comprehensive approach to enhanced immunogenicity, efficacy, and protection. *International Immunopharmacology*, 143, 113241.  
-  [https://doi.org/10.1016/j.intimp.2024.113241](https://doi.org/10.1016/j.intimp.2024.113241)
+- **Kanwal, M., Basheer, A., Bilal, M., et al. (2024).** [In silico vaccine design for *Yersinia enterocolitica*: A comprehensive approach to enhanced immunogenicity, efficacy, and protection.](https://doi.org/10.1016/j.intimp.2024.113241) *International Immunopharmacology*, 143, 113241.
 
 ---
 
@@ -84,10 +82,10 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Awards & Honors
 
-🏆 **Provost Graduate Student Research Award** — Oakland University, Winter 2026  
+🏆 **Provost Graduate Student Research Award** - Oakland University, Winter 2026  
 &nbsp;&nbsp;&nbsp;&nbsp;$1,500 research grant · *"Assessing the Impact of Population-Scale Pangenome Choices on Microbial Phylogenies"*
 
-🏆 **Sigma Xi Travel Award** — 2026  
+🏆 **Sigma Xi Travel Award** - 2026  
 &nbsp;&nbsp;&nbsp;&nbsp;Awarded to support presentation at AbSciCon 2026
 
 ---
@@ -133,37 +131,37 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Education
 
-🎓 **PhD, Biological and Biomedical Sciences** *(in progress)* — Oakland University, Michigan, USA  
-🎓 **MPhil Biotechnology** (CGPA 3.68 / 4.0) — University of Sargodha, Pakistan *(2021–2023)*  
-🎓 **BS Biotechnology** (CGPA 3.04 / 4.0) — University of Sargodha, Pakistan *(2017–2021)*
+🎓 **PhD, Biological and Biomedical Sciences** *(in progress)* - Oakland University, Michigan, USA  
+🎓 **MPhil Biotechnology** (CGPA 3.68 / 4.0) - University of Sargodha, Pakistan *(2021–2023)*  
+🎓 **BS Biotechnology** (CGPA 3.04 / 4.0) - University of Sargodha, Pakistan *(2017–2021)*
 
 ---
 
 ## Certifications & Training
 
 **Genomics & Bioinformatics**
-- Introduction to Genomic Technologies — *Johns Hopkins University*
-- Computational Genomics & Bioinformatics — *ICCBS, University of Karachi*
-- Bacterial Bioinformatics — *University of Virginia*
-- Genomics: Decoding the Universal Language of Life — *University of Illinois*
+- Introduction to Genomic Technologies - *Johns Hopkins University*
+- Computational Genomics & Bioinformatics - *ICCBS, University of Karachi*
+- Bacterial Bioinformatics - *University of Virginia*
+- Genomics: Decoding the Universal Language of Life - *University of Illinois*
 
 **Programming & Data Analysis**
-- Deep Learning, Python & Machine Learning — *Codanics*
-- Command Line in Linux & Bash Shell Scripting — *Coursera*
-- Introduction to R — *Great Learning Academy*
+- Deep Learning, Python & Machine Learning - *Codanics*
+- Command Line in Linux & Bash Shell Scripting - *Coursera*
+- Introduction to R - *Great Learning Academy*
 
 **Other**
-- Higher Aptitude Test (HAT-IV-PhD) — *HEC, passed with distinction*
-- Programme Guidance for Adolescents — *UNICEF*
-- Industrial Biotechnology — *University of Manchester*
+- Higher Aptitude Test (HAT-IV-PhD) - *HEC, passed with distinction*
+- Programme Guidance for Adolescents - *UNICEF*
+- Industrial Biotechnology - *University of Manchester*
 
 ---
 
 ## Service & Memberships
 
-- **Vice President** — Association of Graduate and Professional Students (AGPS), Oakland University
-- **Member** — [Sigma Xi: The Scientific Research Honor Society](https://www.sigmaxi.org)
-- **Member** — Biology Graduate Student Organization (BGSO), Oakland University
+- **Vice President** - Association of Graduate and Professional Students (AGPS), Oakland University
+- **Member** - [Sigma Xi: The Scientific Research Honor Society](https://www.sigmaxi.org)
+- **Member** - Biology Graduate Student Organization (BGSO), Oakland University
 
 ---
 
