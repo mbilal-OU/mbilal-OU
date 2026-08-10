@@ -162,7 +162,7 @@ Alongside my PhD, I am completing a **Graduate Certificate in Data Science**, wi
 
 ## Service & Memberships
 
-- **Vice President** - Association of Graduate and Professional Students (AGPS), Oakland University
+- **President** - Association of Graduate and Professional Students (AGPS), Oakland University
 - **Member** - [Sigma Xi: The Scientific Research Honor Society](https://www.sigmaxi.org)
 - **Member** - Biology Graduate Student Organization (BGSO), Oakland University
 
