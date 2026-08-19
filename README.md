@@ -60,7 +60,7 @@ A genome cohort curation toolkit for NCBI microbial assemblies. It supports geno
 </td>
 <td width="50%" valign="top">
 
-### [SpeciesResolve](https://github.com/mbilal-OU/Genomic-Species-Delineation-Framework)
+### [SpeciesResolve](https://github.com/mbilal-OU/SpeciesResolve)
 
 An evidence-aware framework for microbial species delineation using ANI, alignment fraction, genome quality, GTDB taxonomic context, dereplication, and phylogenomic evidence.
 
