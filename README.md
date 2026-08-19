@@ -26,7 +26,7 @@ My current work combines **population-scale pangenomics, core and accessory geno
 I also build reproducible research software and teaching tools so that genome-scale analyses are easier to inspect, test, and reuse.
 
 <p align="center">
-  <img src="doc/research_ecosystem.svg" alt="Muhammad Bilal research and software ecosystem" width="100%">
+  <img src="doc/research_ecosystem_v2.svg" alt="Muhammad Bilal research and software ecosystem" width="100%">
 </p>
 
 ## Current research
@@ -171,3 +171,13 @@ I am interested in collaborations involving microbial pangenomics, genome evolut
 **Google Scholar:** [scholar.google.com/citations?user=nQycrykAAAAJ](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)  
 **LinkedIn:** [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
 **GitHub:** [github.com/mbilal-OU](https://github.com/mbilal-OU)
+
+## Live GitHub activity
+
+This graph updates automatically from my recent public GitHub contributions.
+
+<p align="center">
+  <a href="https://github.com/mbilal-OU">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbilal-OU&bg_color=ffffff&color=0b2f5b&line=13838b&point=7557a6&area=true&hide_border=true" alt="Muhammad Bilal recent GitHub contribution activity" width="100%">
+  </a>
+</p>
