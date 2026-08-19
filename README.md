@@ -113,6 +113,14 @@ Madison, Wisconsin · May 18, 2026
 **Graduate Research Conference, Oakland University**  
 Oral presentation on population-scale pangenome phylogenomics and microbial Tree of Life reconstruction
 
+## Selected recognition
+
+**Provost Graduate Student Research Award, Oakland University, Winter 2026**  
+$1,500 research award for *Assessing the Impact of Population-Scale Pangenome Choices on Microbial Phylogenies*
+
+**Sigma Xi Travel Award, 2026**  
+Travel support for presenting research at AbSciCon 2026
+
 ## Selected publications
 
 1. **Bilal, M., & Battistuzzi, F. U. (2026).** [Pangenomes: Unveiling Genetic Diversity Across Populations and Beyond](https://doi.org/10.1016/B978-0-443-15750-9.00139-7). *Encyclopedia of Evolutionary Biology*, 2nd edition, Vol. 2, 294-306. Elsevier.
