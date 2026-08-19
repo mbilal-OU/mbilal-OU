@@ -172,12 +172,12 @@ I am interested in collaborations involving microbial pangenomics, genome evolut
 **LinkedIn:** [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
 **GitHub:** [github.com/mbilal-OU](https://github.com/mbilal-OU)
 
-## Live GitHub activity
-
-This graph updates automatically from my recent public GitHub contributions.
+## GitHub contributions
 
 <p align="center">
   <a href="https://github.com/mbilal-OU">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbilal-OU&bg_color=ffffff&color=0b2f5b&line=13838b&point=7557a6&area=true&hide_border=true" alt="Muhammad Bilal recent GitHub contribution activity" width="100%">
+    <img src="https://ghchart.rshah.org/2ea043/mbilal-OU" alt="Muhammad Bilal GitHub contribution calendar" width="100%">
   </a>
 </p>
+
+<sub>Live public contribution calendar. The squares update as new qualifying GitHub contributions are recorded.</sub>
