@@ -30,10 +30,6 @@ My current work combines **population-scale pangenomics, core and accessory geno
 
 I also build reproducible research software and teaching tools so that genome-scale analyses are easier to inspect, test, and reuse.
 
-<p align="center">
-  <img src="doc/research_ecosystem_v2.svg" alt="Muhammad Bilal research and software ecosystem" width="100%">
-</p>
-
 ## Featured public resource
 
 ### [Awesome Microbial Pangenomics](https://github.com/mbilal-OU/awesome-microbial-pangenomics)
