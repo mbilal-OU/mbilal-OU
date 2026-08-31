@@ -13,6 +13,7 @@ Microbial pangenomics · phylogenomics · molecular clocks · astrobiology · re
 [![Email](https://img.shields.io/badge/Email-mbilal%40oakland.edu-2f5d73?logo=gmail&logoColor=white)](mailto:mbilal@oakland.edu)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itsmbilal88-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmbilal88)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20research%20site-C77D38?logo=googlechrome&logoColor=white)](https://mbilal-ou.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-mbilal--OU-181717?logo=github&logoColor=white)](https://github.com/mbilal-OU)
 
 </div>
@@ -28,6 +29,16 @@ I also build reproducible research software and teaching tools so that genome-sc
 <p align="center">
   <img src="doc/research_ecosystem_v2.svg" alt="Muhammad Bilal research and software ecosystem" width="100%">
 </p>
+
+## Featured public resource
+
+<a href="https://github.com/mbilal-OU/awesome-microbial-pangenomics">
+  <img src="https://raw.githubusercontent.com/mbilal-OU/awesome-microbial-pangenomics/main/assets/microbial-pangenome-concept.svg" alt="Microbial pangenome concept: core, shell, cloud, unique genes, and open versus closed accumulation curves" width="100%">
+</a>
+
+### [Awesome Microbial Pangenomics](https://github.com/mbilal-OU/awesome-microbial-pangenomics)
+
+A curated, literature-backed guide to microbial pangenomics: genome quality control, annotation, gene-cluster and graph pangenomes, downstream analysis, visualization, databases, reproducible workflows, and an annotated reading list. **Click the figure to explore the resource.**
 
 ## Current research
 
@@ -99,6 +110,7 @@ An ordination workbench for microbial pangenome presence/absence matrices using 
 | [FORGE Slurm Lab](https://github.com/mbilal-OU/FORGE-Slurm-Lab) | Interactive learning resources for Slurm, modules, Conda, and HPC workflows |
 | [BLab Slurm Builder](https://github.com/mbilal-OU/BLab-slurm-builder) | A lightweight helper for composing Slurm job scripts |
 | [Rosalind Bioinformatics](https://github.com/mbilal-OU/Rosalind-Bioinformatics) | Algorithmic bioinformatics problem solving and reproducible code examples |
+| [Awesome Microbial Pangenomics](https://github.com/mbilal-OU/awesome-microbial-pangenomics) | Curated literature, software, data resources, and learning guidance for microbial pangenomics |
 
 ## 2026 research highlights
 
@@ -170,6 +182,7 @@ I am interested in collaborations involving microbial pangenomics, genome evolut
 **Email:** [mbilal@oakland.edu](mailto:mbilal@oakland.edu)  
 **Google Scholar:** [scholar.google.com/citations?user=nQycrykAAAAJ](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)  
 **LinkedIn:** [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
+**Portfolio:** [mbilal-ou.github.io](https://mbilal-ou.github.io/)  
 **GitHub:** [github.com/mbilal-OU](https://github.com/mbilal-OU)
 
 ## GitHub contributions
