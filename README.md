@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="doc/ou_logo.png" alt="Oakland University" width="115"/>
+<a href="https://mbilal-ou.github.io/">
+  <img src="doc/banner3.jpg" alt="Muhammad Bilal research portfolio" width="100%"/>
+</a>
+
+<img src="doc/ou_logo.png" alt="Oakland University" width="72"/>
 
 # Muhammad Bilal
 
@@ -32,13 +36,11 @@ I also build reproducible research software and teaching tools so that genome-sc
 
 ## Featured public resource
 
-<a href="https://github.com/mbilal-OU/awesome-microbial-pangenomics">
-  <img src="https://raw.githubusercontent.com/mbilal-OU/awesome-microbial-pangenomics/main/assets/microbial-pangenome-concept.svg" alt="Microbial pangenome concept: core, shell, cloud, unique genes, and open versus closed accumulation curves" width="100%">
-</a>
-
 ### [Awesome Microbial Pangenomics](https://github.com/mbilal-OU/awesome-microbial-pangenomics)
 
-A curated, literature-backed guide to microbial pangenomics: genome quality control, annotation, gene-cluster and graph pangenomes, downstream analysis, visualization, databases, reproducible workflows, and an annotated reading list. **Click the figure to explore the resource.**
+A curated, literature-backed guide to microbial pangenomics, covering genome quality control, annotation, gene-cluster and graph pangenomes, downstream analysis, visualization, databases, reproducible workflows, and an annotated reading list.
+
+[Explore the resource →](https://github.com/mbilal-OU/awesome-microbial-pangenomics) · [Visit my research portfolio →](https://mbilal-ou.github.io/)
 
 ## Current research
 
@@ -183,7 +185,8 @@ I am interested in collaborations involving microbial pangenomics, genome evolut
 **Google Scholar:** [scholar.google.com/citations?user=nQycrykAAAAJ](https://scholar.google.com/citations?user=nQycrykAAAAJ&hl=en)  
 **LinkedIn:** [linkedin.com/in/itsmbilal88](https://www.linkedin.com/in/itsmbilal88)  
 **Portfolio:** [mbilal-ou.github.io](https://mbilal-ou.github.io/)  
-**GitHub:** [github.com/mbilal-OU](https://github.com/mbilal-OU)
+**GitHub:** [github.com/mbilal-OU](https://github.com/mbilal-OU)  
+**Profile design evidence:** [benchmark and decisions](docs/profile-readme-benchmark.md)
 
 ## GitHub contributions
 
