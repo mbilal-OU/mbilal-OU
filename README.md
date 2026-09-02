@@ -104,7 +104,7 @@ An ordination workbench for microbial pangenome presence/absence matrices using 
 | Project | Purpose |
 |---|---|
 | [PanGenome Openness Estimator](https://github.com/mbilal-OU/PanGenome-Openness-Estimator) | Heaps' law, genome accumulation curves, and permutation-based pangenome openness analysis |
-| [roary-pangenome-heatmaps](https://github.com/mbilal-OU/roary-pangenome-heatmaps) | Static and interactive visualization of Roary gene presence/absence data |
+| [roary-pangenome-figure-atlas](https://github.com/mbilal-OU/roary-pangenome-figure-atlas) | Static and interactive visualization of Roary gene presence/absence data |
 | [FORGE Slurm Lab](https://github.com/mbilal-OU/FORGE-Slurm-Lab) | Interactive learning resources for Slurm, modules, Conda, and HPC workflows |
 | [BLab Slurm Builder](https://github.com/mbilal-OU/BLab-slurm-builder) | A lightweight helper for composing Slurm job scripts |
 | [Rosalind Bioinformatics](https://github.com/mbilal-OU/Rosalind-Bioinformatics) | Algorithmic bioinformatics problem solving and reproducible code examples |
