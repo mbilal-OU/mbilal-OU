@@ -150,7 +150,7 @@ Travel support for presenting research at AbSciCon 2026
 | Programming | Python, R, Bash, Linux |
 | Reproducible workflows | Nextflow, Snakemake, Conda, GitHub Actions |
 | HPC | Slurm, array jobs, large-scale genome analysis |
-| Visualization | Matplotlib, ggplot2, ggtree, iTOL, interactive HTML reporting |
+| Visualization | Matplotlib, Seaborn, Plotly, ggplot2, ggtree, ComplexHeatmap, Shiny, Gnuplot, iTOL, interactive HTML reporting |
 
 ## Teaching and leadership
 
